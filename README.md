@@ -2,7 +2,7 @@
 <!--                HEADER                   -->
 <!-- ======================================== -->
 
-<h1 align="center">✧ hi, i'm naisha ✧</h1>
+<h1 align="center">✧ hello, i'm naisha ✧</h1>
 
 <p align="center">
   computer science @ cornell university <br>
@@ -17,7 +17,7 @@
 
 ## about
 
-I'm a CS student focused on building interactive systems at the intersection of:
+I'm a CS student at Cornell University focused on building interactive systems at the intersection of:
 
 - human-computer interaction  
 - augmented & spatial computing  
@@ -31,20 +31,13 @@ My work blends technical implementation with design thinking — especially in e
 ## projects
 
 ### ✧ [iris](https://naishasrivastava.github.io/iris)
-Interactive visual system exploring motion, responsiveness, and immersive digital aesthetics.  
-**Tech:** JavaScript  
+Interactive visual system exploring motion, responsiveness, and immersive digital aesthetics. 
 
 ### ✧ [borealis](https://naishasrivastava.github.io/borealis/)
 Fluid particle simulation where interaction shapes dynamic light trails.  
-**Tech:** JavaScript, p5.js  
 
 ### ✧ [kaleido](https://naishasrivastava.github.io/kaleido)
-Motion-based visual experiment exploring repetition and emergent pattern systems.  
-**Tech:** JavaScript  
-
-### ✧ AR interface experiments  
-3D interface prototypes built in Unity exploring spatial interaction.  
-**Tech:** C#, Unity  
+Motion-based visual experiment exploring repetition and emergent pattern systems.   
 
 ---
 
@@ -73,8 +66,8 @@ Git • Figma
 ## connect
 
 Portfolio: https://naishasrivastava.github.io  
-LinkedIn: [add your link here]  
-Email: [add your email or remove this line]
+LinkedIn: https://www.linkedin.com/in/naishasrivastava
+Email: ns2229@cornell.edu
 
 ---
 
