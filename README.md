@@ -68,8 +68,7 @@ Git • Figma
 ## ✦ connect ✦
 
 Portfolio: https://naishasrivastava.github.io  
-LinkedIn: https://www.linkedin.com/in/naishasrivastava
-
+LinkedIn: https://www.linkedin.com/in/naishasrivastava  
 Email: ns2229@cornell.edu
 
 ---
