@@ -15,7 +15,7 @@
 
 ---
 
-## about
+## ✦ about ✦
 
 I'm a CS student at Cornell University focused on building interactive systems at the intersection of:
 
@@ -43,7 +43,7 @@ Motion-based visual experiment exploring repetition and emergent pattern systems
 ---
 -->
 
-## tech
+## ✦ tech ✦
 
 **Languages**  
 Java • Python • JavaScript • C  
@@ -56,7 +56,7 @@ Git • Figma
 
 ---
 
-## currently exploring
+## ✦ currently exploring ✦
 
 - adaptive interfaces  
 - robotics + embodied interaction  
@@ -65,7 +65,7 @@ Git • Figma
 
 ---
 
-## connect
+## ✦ connect ✦
 
 Portfolio: https://naishasrivastava.github.io  
 LinkedIn: https://www.linkedin.com/in/naishasrivastava
