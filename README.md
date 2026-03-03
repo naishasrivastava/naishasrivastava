@@ -7,9 +7,9 @@ I build interactive systems that explore how humans and technology communicate �
 ---
 
 ### 🔭 What I’m Working On
-- Interactive visual projects using p5.js  
+- Interactive [visual](https://naishasrivastava.github.io/iris) projects using p5.js  
 - Exploring augmented reality and 3D user interface design  
-- Building fluid simulations and generative systems  
+- Building [fluid simulations](https://naishasrivastava.github.io/borealis/) and generative systems  
 - Studying data structures, discrete math, and computational theory  
 
 ---
