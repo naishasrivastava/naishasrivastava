@@ -1,4 +1,4 @@
-## Hi there ðŸ‘‹ I'm Naisha
+## Hi, I'm Naisha
 
 Iâ€™m a computer science student at Cornell University interested in human-centered computing, AR/VR, robotics, and interface design.
 
@@ -15,11 +15,10 @@ I build interactive systems that explore how humans and technology communicate â
 ---
 
 ### ðŸŒ± Interests
-- Human-Computer Interaction (HCI)  
+- Human-Computer Interaction
 - Augmented & Virtual Reality  
-- Robotics and adaptive systems  
-- Natural Language Processing  
-- Computational design + digital aesthetics  
+- Robotics & Adaptive Systems
+- Computational Design & Digital Aesthetics  
 
 ---
 
@@ -28,7 +27,7 @@ I build interactive systems that explore how humans and technology communicate â
 - **Creative Coding:** p5.js  
 - **AR/3D:** Unity  
 - **Web:** HTML, CSS  
-- **Tools:** Git, Figma  
+- **Tools:** Git, Figma
 
 ---
 
