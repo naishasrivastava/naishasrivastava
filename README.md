@@ -10,7 +10,10 @@
 </p>
 
 <p align="center">
-  i build technology that [responds](https://naishasrivastava.github.io/borealis/), [adapts](https://naishasrivastava.github.io/kaleido), and [feels alive](https://naishasrivastava.github.io/bloom).
+  i build technology that 
+  <a href="https://naishasrivastava.github.io/borealis/" target="_blank">responds</a>, 
+  <a href="https://naishasrivastava.github.io/kaleido" target="_blank">adapts</a>, and 
+  <a href="https://naishasrivastava.github.io/bloom" target="_blank">feels alive</a>.
 </p>
 
 ---
