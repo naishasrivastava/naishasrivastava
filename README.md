@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  i build technology that responds, adapts, and feels alive.
+  i build technology that [responds](https://naishasrivastava.github.io/borealis/), [adapts](https://naishasrivastava.github.io/kaleido), and [feels alive](https://naishasrivastava.github.io/bloom).
 </p>
 
 ---
