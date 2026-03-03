@@ -1,47 +1,83 @@
-## Hi, I'm Naisha
+<!-- ======================================== -->
+<!--                HEADER                   -->
+<!-- ======================================== -->
 
-I’m a computer science student at Cornell University interested in human-centered computing, AR/VR, robotics, and interface design.
+<h1 align="center">✧ hi, i'm naisha ✧</h1>
 
-I build interactive systems that explore how humans and technology communicate — visually, spatially, and linguistically.
+<p align="center">
+  computer science @ cornell university <br>
+  human-centered computing • immersive systems • generative design
+</p>
 
----
-
-### 🔭 What I’m Working On
-- Interactive [visual](https://naishasrivastava.github.io/iris) projects using p5.js  
-- Exploring augmented reality and 3D user interface design  
-- Building [fluid simulations](https://naishasrivastava.github.io/borealis/) and generative systems  
-- Studying data structures, discrete math, and computational theory  
-
----
-
-### 🌱 Interests
-- Human-Computer Interaction
-- Augmented & Virtual Reality  
-- Robotics & Adaptive Systems
-- Computational Design & Digital Aesthetics  
+<p align="center">
+  i build technology that responds, adapts, and feels alive.
+</p>
 
 ---
 
-### 🛠 Tech I Use
-- **Languages:** Java, Python, JavaScript, C  
-- **Creative Coding:** p5.js  
-- **AR/3D:** Unity  
-- **Web:** HTML, CSS  
-- **Tools:** Git, Figma
+## about
+
+I'm a CS student focused on building interactive systems at the intersection of:
+
+- human-computer interaction  
+- augmented & spatial computing  
+- generative simulation  
+- language and intelligent systems  
+
+My work blends technical implementation with design thinking — especially in environments where interaction, motion, and perception matter.
 
 ---
 
-### 💡 What Drives Me
-I care about designing technology that feels intuitive, culturally aware, and empowering.  
-I’m especially interested in how immersive systems can amplify human capability rather than replace it.
+## projects
+
+### ✧ [iris](https://naishasrivastava.github.io/iris)
+Interactive visual system exploring motion, responsiveness, and immersive digital aesthetics.  
+**Tech:** JavaScript  
+
+### ✧ [borealis](https://naishasrivastava.github.io/borealis/)
+Fluid particle simulation where interaction shapes dynamic light trails.  
+**Tech:** JavaScript, p5.js  
+
+### ✧ [kaleido](https://naishasrivastava.github.io/kaleido)
+Motion-based visual experiment exploring repetition and emergent pattern systems.  
+**Tech:** JavaScript  
+
+### ✧ AR interface experiments  
+3D interface prototypes built in Unity exploring spatial interaction.  
+**Tech:** C#, Unity  
 
 ---
 
-### 📫 Connect With Me
-- Portfolio: [https://naishasrivastava.github.io/]
-- LinkedIn: [https://www.linkedin.com/in/naishasrivastava]
+## tech
+
+**Languages**  
+Java • Python • JavaScript • C  
+
+**Creative + Spatial**  
+p5.js • Unity • HTML • CSS  
+
+**Tools**  
+Git • Figma  
 
 ---
 
-### ⚡ Fun Fact
-I have lived in 5 countries!
+## currently exploring
+
+- adaptive interfaces  
+- robotics + embodied interaction  
+- natural language processing  
+- immersive learning systems  
+
+---
+
+## connect
+
+Portfolio: https://naishasrivastava.github.io  
+LinkedIn: [add your link here]  
+Email: [add your email or remove this line]
+
+---
+
+<p align="center">
+  ✧ building immersive systems that extend human capability ✧
+</p>
