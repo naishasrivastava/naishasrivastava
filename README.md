@@ -63,7 +63,6 @@ Git • Figma
 
 - adaptive interfaces  
 - robotics + embodied interaction  
-- natural language processing  
 - immersive learning systems  
 
 ---
