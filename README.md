@@ -28,6 +28,7 @@ My work blends technical implementation with design thinking — especially in e
 
 ---
 
+<!--
 ## projects
 
 ### ✧ [iris](https://naishasrivastava.github.io/iris)
@@ -40,6 +41,7 @@ Fluid particle simulation where interaction shapes dynamic light trails.
 Motion-based visual experiment exploring repetition and emergent pattern systems.   
 
 ---
+-->
 
 ## tech
 
